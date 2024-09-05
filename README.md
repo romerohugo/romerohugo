@@ -5,7 +5,7 @@ I'm Hugo, a passionate developer with a background in engineering and a love for
 ## 🎓 Education
 I graduated from **INSA Toulouse** with a degree in Systems and Mechanical Engineering. My engineering background has given me a solid foundation in problem-solving and analytical thinking.
 
-## 💻 Career Transition
+## 💻 Career
 After graduation, I decided to pivot to the tech world and have since become an enthusiastic **iOS Developer**. I enjoy creating sleek and efficient mobile applications using Swift.
 
 ## 🌐 Current Focus
